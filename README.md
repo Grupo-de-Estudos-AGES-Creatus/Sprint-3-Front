@@ -9,14 +9,17 @@ A ideia é que você mostre ao mundo quem você é como desenvolvedor(a), com um
 ## 📚 Tecnologias
 
 ### ⚛️ ReactJS
+
 - Site oficial: [https://reactjs.org/](https://reactjs.org/)
 - Tutorial bacana: [Guia de React para Iniciantes (DevMedia)](https://www.devmedia.com.br/react-js/)
 
 ### ⚡ Vite
+
 - Site oficial: [https://vitejs.dev/](https://vitejs.dev/)
 - Tutorial: [Criando projeto com React + Vite + TypeScript](https://blog.rocketseat.com.br/react-com-vite/)
 
 ### 💙 TypeScript
+
 - Documentação oficial: [https://www.typescriptlang.org/](https://www.typescriptlang.org/)
 - Tutorial: [TypeScript para iniciantes (Programador BR)](https://www.youtube.com/watch?v=0mYq5LrQN1s)
 
@@ -60,6 +63,3 @@ A ideia é que você mostre ao mundo quem você é como desenvolvedor(a), com um
 - [https://amirdev.nl/](https://amirdev.nl/) — **BOM EXEMPLO INICIAL**
 
 ---
-
-
-
