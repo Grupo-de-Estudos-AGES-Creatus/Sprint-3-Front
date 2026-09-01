@@ -1,6 +1,6 @@
-# 🚀 Sprint 5 — Criando um Portfólio com ReactJS + Vite + TypeScript
+# 🚀 Sprint 3 — Criando um Portfólio com ReactJS + Vite + TypeScript
 
-Seja bem-vindo(a) à Sprint 5! Nesta etapa vamos **criar um portfólio pessoal** moderno, estiloso e responsivo usando **ReactJS**, **Vite** e **TypeScript**. 😎✨
+Seja bem-vindo(a) à Sprint 3! Nesta etapa vamos **criar um portfólio pessoal** moderno, estiloso e responsivo usando **ReactJS**, **Vite** e **TypeScript**. 😎✨
 
 A ideia é que você mostre ao mundo quem você é como desenvolvedor(a), com um portfólio que tenha sua cara — e claro, com um código bem organizado! 🧠💻
 
